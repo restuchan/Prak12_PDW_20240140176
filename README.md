@@ -54,7 +54,7 @@ npm run dev
 '''
 
 Buka browser dan akses: `http://localhost:5173`
-
+'''
 ---
 
 ## 📁 Struktur Proyek
@@ -90,17 +90,7 @@ Buka browser dan akses: `http://localhost:5173`
 
 
 
----
-
-## 🌐 Demo
-
-🔗 **Live Demo:** [https://USERNAME.github.io/NAMA-REPO](https://USERNAME.github.io/NAMA-REPO)
-
-> Ganti link di atas dengan URL hasil deploy-mu (Vercel / Netlify / GitHub Pages).
-
----
-
-## 📝 Catatan Pengembangan
+## 📝 Catatan 
 
 - Data produk disimpan sementara menggunakan **Array JavaScript** di dalam komponen React (tanpa backend/database)
 - Gambar produk menggunakan foto gratis dari [Unsplash](https://unsplash.com)
