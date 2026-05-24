@@ -54,7 +54,7 @@ npm run dev
 '''
 
 Buka browser dan akses: `http://localhost:5173`
-'''
+
 ---
 
 ## 📁 Struktur Proyek
@@ -80,15 +80,15 @@ Buka browser dan akses: `http://localhost:5173`
 
 
 ### Halaman Beranda
-![Halaman Beranda](./image/Beranda.png)
+![Preview Screenshot](./image/Beranda.png)
 
 ### Halaman Katalog Produk
-![Katalog Produk](./image/Katalog.png)
+![Preview Screenshot](./image/Katalog.png)
 
 ### Halaman Tentang Kami
-![Tentang Kami](./image/Tentang%20kami.png)
+![Preview Screenshot](./image/Tentang%20kami.png)
 
-
+---
 
 ## 📝 Catatan 
 
